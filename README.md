@@ -2,7 +2,9 @@
 
 This is a working map of land managed or leased by the [Narrow Ridge Center](https://narrowridge.org/) in Washburn, TN. It's a QGIS project tracked by this here [Kart](https://kartproject.org/) repository. 
 References: 
+- [Clone existing repositories](https://docs.kartproject.org/en/latest/pages/commands/kart_clone.html#clone-existing-repositories)
 - [QGIS Kart plugin page](https://plugins.qgis.org/plugins/kart/)
 - [Kart GitHub page](https://github.com/koordinates/kart)
-- [Clone existing repositories](https://docs.kartproject.org/en/latest/pages/commands/kart_clone.html#clone-existing-repositories)
 - [Kart documentation](https://docs.kartproject.org/en/latest/)
+
+<img width="522" height="391" alt="image" src="https://github.com/user-attachments/assets/a266f06c-1ee6-4d70-92f2-7c6c06596e1d" />
