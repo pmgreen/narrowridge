@@ -13,3 +13,9 @@ _Screenshot of QGIS project_
 <kdb>
 <img width="522" height="391" alt="image" src="https://github.com/user-attachments/assets/a266f06c-1ee6-4d70-92f2-7c6c06596e1d" />
 </kdb>
+
+_LiDAR data to estimate tree heights and density [(details)](https://github.com/pmgreen/narrowridge/wiki)_
+
+<kdb>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/1f733cc7-614a-47b8-afb1-d59d4c357989" />
+</kdb>
